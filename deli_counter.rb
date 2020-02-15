@@ -1,4 +1,4 @@
-katz_deli = []
+katz_deli = [1]
 
 def line(katz_deli)
   if katz_deli.empty? 
