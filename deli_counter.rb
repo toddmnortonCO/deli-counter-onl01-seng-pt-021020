@@ -6,4 +6,5 @@ def line(katz_deli)
   end
 end
 
-line(katz_deli)
+def take_a_number(array, string)
+  
